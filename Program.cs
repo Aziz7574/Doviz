@@ -24,7 +24,7 @@ namespace MainSpace;
                 amountOfMoney = decimal.Parse(Console.ReadLine());
                 resultAmount = amountOfMoney / 11600    ;
 
-                Console.WriteLine($"{amountOfMoney }soum is equal to {resultAmount} dollar");
+                Console.WriteLine($"{amountOfMoney } soum is equal to {resultAmount} dollar");
                 
             }
             else if(option == 2){
