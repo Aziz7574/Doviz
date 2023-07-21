@@ -39,6 +39,8 @@ namespace MainSpace;
             else{
                 Console.WriteLine("You have choosed wrong option, please try again");
             }
+
+            Console.WriteLine("That is it");
         
         }
 
